@@ -5,7 +5,7 @@ To buy a pen just click on Buy pen button you can also specify number of pens to
 
 # Why I create such app
 
-My motivation for such thing is just to Practice with redux, You may not find it much useful.
+My motivation for such thing is just to Practice and Explore redux, You may not find it much useful.
 
 # Preview 
 
