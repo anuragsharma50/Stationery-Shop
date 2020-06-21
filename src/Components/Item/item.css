@@ -1,0 +1,13 @@
+input {
+    width: 30px;
+    height: 20px;
+    text-align: center;
+    margin: 4px;
+}
+
+button {
+    height: 50px;
+    background:#fbe46b;
+    border: 2px solid; 
+    box-shadow: 3px 4px 2px rgb(37, 36, 36);
+}

@@ -1,0 +1,1 @@
+export const BUY_NOTEBOOK = 'BUY_NOTEBOOK'

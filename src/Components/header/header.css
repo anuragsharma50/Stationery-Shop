@@ -1,0 +1,12 @@
+.header {
+    width: 97%;
+    height: 10%;
+    border: 2px solid black;
+    text-align: center;
+    padding: 0.5%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    margin: 10px;
+    box-shadow: 2px 4px 2px rgb(37, 36, 36);
+    background-color: rgb(197, 240, 169)
+}
