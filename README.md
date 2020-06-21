@@ -9,3 +9,4 @@ My motivation for such thing is just to Practice with redux, You may not find it
 
 # Preview 
 
+![Screenshot](https://github.com/anuragsharma50/Stationery-Shop/blob/master/static/Screenshot%20(160).png)
